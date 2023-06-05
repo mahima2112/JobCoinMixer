@@ -12,5 +12,6 @@ deducting a fee.
 
 To run the program:
 
-javac JobCoinMixer.java 
-java JobCoinMixer
+1. javac JobCoinMixer.java
+
+2. java JobCoinMixer
